@@ -1,0 +1,35 @@
+.intro
+{
+padding-top: 10px;
+min-height: 1100px;
+min-width: 100%;
+background: url(home.jpg);
+background-size: cover;
+padding-bottom: 20px;
+}
+.intro p 
+{
+	text-align: center;
+	font-size: 40px;
+	padding-top: 400px;
+	padding-left: 50px;
+	color: white;
+}
+.content
+{
+	min-height: 760px;
+	min-width: 100%;
+	background-color: grey;
+	text-align: center;
+	padding-top: 80px;
+	color: white;
+    padding-bottom: 10px;
+}
+footer
+{
+	text-align: center;
+	min-height: 200px;
+	min-width: 100%;
+	background-color: black;
+	color: white;
+}
