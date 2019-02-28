@@ -33,3 +33,16 @@ footer
 	background-color: black;
 	color: white;
 }
+fieldset
+{
+	padding-top: 50px;
+	width: 20%;
+}
+.login
+{
+	min-height: 760px;
+	min-width: 100%;
+	background-color: grey;
+	padding-top: 90px;
+}
+
