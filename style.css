@@ -1,3 +1,8 @@
+*
+{
+	margin: 0px;
+	padding: 0px;
+}
 .intro
 {
 padding-top: 10px;
@@ -27,22 +32,33 @@ padding-bottom: 20px;
 }
 footer
 {
+	padding-top: 10px;
+	padding-bottom: 10px;
 	text-align: center;
 	min-height: 200px;
 	min-width: 100%;
 	background-color: black;
 	color: white;
 }
-fieldset
+.loginhome
 {
-	padding-top: 50px;
-	width: 20%;
-}
-.login
-{
-	min-height: 760px;
-	min-width: 100%;
+	display: flex;
+	justify-content: center;
 	background-color: grey;
-	padding-top: 90px;
+	height: 760px;
+	width: 100%;
+}
+.sample
+{
+	padding-top: 100px;
+	padding-bottom: 560px;
+	text-align: center;
+	background-color: white;
+	width: 50%;
+	height: 100px;
+}
+button
+{
+	width: 30%;
 }
 
