@@ -1,9 +1,9 @@
 header
 {
 	min-height: 50px;
-	background-color: black;
+	background-color: #25B829;
 	color: white;
-	border-bottom: orange 4px solid;
+	border-bottom: black 4px solid;
 }
 header a
 {

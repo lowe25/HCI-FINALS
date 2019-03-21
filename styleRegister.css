@@ -1,0 +1,17 @@
+.reghome
+{
+	display: flex;
+	justify-content: center;
+	background-color: grey;
+	height: 760px;
+	width: 100%;
+}
+.regcontent
+{
+	padding-top: 10px;
+	padding-bottom: 560px;
+	text-align: center;
+	background-color: #33FFB8;
+	width: 50%;
+	height: 100px;
+}

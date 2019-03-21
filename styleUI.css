@@ -1,0 +1,21 @@
+.*
+{
+margin: 0px;
+padding: 0px;
+}
+.account
+{
+	background-color: grey;
+	height: 760px;
+	width: 100%;
+}
+footer
+{
+	padding-top: 10px;
+	padding-bottom: 10px;
+	text-align: center;
+	min-height: 100px;
+	min-width: 100%;
+	background-color: black;
+	color: white;
+}

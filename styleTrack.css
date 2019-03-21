@@ -1,0 +1,23 @@
+.*
+{
+	padding: 0px;
+	margin: 0px;
+}
+.tracks
+{
+	background-color: white;
+	height: 350px;
+	width: 100%;
+}
+
+.row
+{
+	padding-left: 70px;
+}
+.top
+{
+	background:url(guitar.jpg) no-repeat;
+	background-size: cover;
+	height: 400px;
+	width: 100%;
+}
