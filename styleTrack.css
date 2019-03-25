@@ -5,9 +5,10 @@
 }
 .tracks
 {
-	background-color: white;
+	background-color:#2c2c2d;
 	height: 350px;
 	width: 100%;
+	color: white;
 }
 
 .row

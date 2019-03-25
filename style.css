@@ -40,7 +40,7 @@ padding-bottom: 20px;
 	width: 100%;
 	font-family: sans-serif;
 	color: white;
-	background-color: #39DE3C;
+	background-color:#2c2c2d;
 }
 .about2
 {
@@ -96,7 +96,8 @@ footer
 	padding-top: 100px;
 	padding-bottom: 560px;
 	text-align: center;
-	background-color: #33FFB8;
+	background-color: #5e5e63;
+	color: white;
 	width: 50%;
 	height: 100px;
 }
