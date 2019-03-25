@@ -42,7 +42,22 @@ padding-bottom: 20px;
 	color: white;
 	background-color: #39DE3C;
 }
+.about2
+{
+	background: url(artist.jpg) no-repeat;
+	background-size: cover;
+	height: 900px;
+	width: 100%;
+	font-family: sans-serif;
+	color: white;
+	background-color: grey;
+}
+.label
+{	
+	padding-top: 60px;
+	font-size: 15px;
 
+}
 .main
 {
 	padding-top: 20px;
@@ -61,7 +76,7 @@ padding-bottom: 20px;
 footer
 {
 	padding-top: 10px;
-	padding-bottom: 10px;
+	padding-bottom: 130px;
 	text-align: center;
 	min-height: 100px;
 	min-width: 100%;
@@ -107,5 +122,9 @@ button
 .Year
 {
 	width: 40px;
+}
+.down
+{
+	padding-top: 50px;
 }
 
