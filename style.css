@@ -2,6 +2,7 @@
 {
 	margin: 0px;
 	padding: 0px;
+	font-family: sans-serif;
 }
 .intro
 {
@@ -43,4 +44,20 @@ footer
 	min-width: 100%;
 	background-color: black;
 	color: white;
+}
+
+@media(max-width: 768px)
+{
+header #branding,
+header nav,
+header nav li
+{
+	float: none;
+	text-align: center;
+	width:100%;
+}
+}
+header
+{
+	padding-bottom:20px;
 }
