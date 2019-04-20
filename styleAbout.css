@@ -1,3 +1,18 @@
+
+.content
+{
+	min-height: 760px;
+	min-width: 30%;
+	background: url(musician-wallpapers-30495-8566803.jpg) no-repeat;
+	background-size: cover;
+	text-align: center;
+	padding-top: 80px;
+	color: white;
+    padding-bottom: 10px;
+    padding-top: 290px;
+    padding-left: 400px;
+    font-size: 40px;
+}
 .about1
 {
 	height: 200px;
@@ -8,7 +23,7 @@
 }
 .about2
 {
-	background: url(artist.jpg) no-repeat;
+	background: url(artist.jpg);
 	background-size: cover;
 	height: 900px;
 	width: 100%;
@@ -20,6 +35,8 @@
 {	
 	padding-top: 60px;
 	font-size: 15px;
+	padding-left: 10px;
+	padding-right: 5px;
 
 }
 .main
@@ -79,12 +96,13 @@ header
 	width: 100%;
 	padding-top: 50px;
 }
-
 .label
 {
+    font-size: 16px;
 	float: none;
 	text-align: left;
-	width: 100%;
+	padding-left: 30px;
+	width: 65.5%;
 }
 
 }

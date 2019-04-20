@@ -21,20 +21,6 @@ padding-bottom: 20px;
 	padding-left: 50px;
 	color: white;
 }
-.content
-{
-	min-height: 760px;
-	min-width: 100%;
-	background: url(musician-wallpapers-30495-8566803.jpg) no-repeat;
-	background-size: cover;
-	text-align: center;
-	padding-top: 80px;
-	color: white;
-    padding-bottom: 10px;
-    padding-top: 290px;
-    padding-left: 400px;
-    font-size: 40px;
-}
 footer
 {
 	padding-top: 10px;
@@ -56,8 +42,15 @@ header nav li
 	text-align: center;
 	width:100%;
 }
-}
 header
 {
 	padding-bottom:20px;
 }
+.intro
+{
+	text-align: center;
+	width: 100%;
+}
+
+}
+
